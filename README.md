@@ -1,5 +1,7 @@
-/*![github-header-image (4)](https://github.com/user-attachments/assets/596d1c26-3834-4075-8c9d-a66077b2ddb7)*/
-<img align="center" src="https://github.com/user-attachments/assets/596d1c26-3834-4075-8c9d-a66077b2ddb7" height="30" width="40" />
+*![github-header-image (4)](https://github.com/user-attachments/assets/596d1c26-3834-4075-8c9d-a66077b2ddb7)*
+<img align="center" src="https://github.com/user-attachments/assets/95511c58-9b6b-4317-970e-3028cea8c711" height="30" width="40" />
+*[github-header-image (5)]()*
+
 
 <h1 align="left">Hi 👋, I'm Rishabh Prasad</h1>
 <h3 align="left">A passionate frontend developer</h3>
