@@ -4,20 +4,28 @@
 
 I'm passionate about writing clean code, building microservices, and learning new technologies as a backend developer.
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Authentication](https://img.shields.io/badge/Authentication-FF6B6B?style=flat&logo=shield&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-FF6B6B?style=for-the-badge&logo=shield&logoColor=white)
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-am-Rishabh&show_icons=true&theme=default&hide_border=true)
+### [OneRoomConnect](https://github.com/I-am-Rishabh/oneRoomConnect)
+Real-time video chat web application with WebRTC and Socket.IO for peer-to-peer communication.  
+🔗 [Live Demo](https://oneroomconnect.onrender.com/) | [GitHub Repo](https://github.com/I-am-Rishabh/oneRoomConnect)
+
+### [Project Name 2](link-to-repo)
+Brief description of your second project and technologies used.
+
+### [Project Name 3](link-to-repo)
+Brief description of your third project and technologies used.
 
 ---
 
