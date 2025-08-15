@@ -3,7 +3,6 @@
 <div></div>
 I'm passionate about writing clean code, building microservices, and learning new technologies as a backend developer. I enjoy creating scalable applications with modern tech stacks and have hands-on experience in full-stack development. Currently focused on mastering Spring Boot ecosystem, real-time applications with WebRTC and Socket.IO, and designing efficient database schemas.
 
-## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007ACC?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6c757d?style=flat-square&logo=spring&logoColor=white)
@@ -16,7 +15,7 @@ I'm passionate about writing clean code, building microservices, and learning ne
 ![MongoDB](https://img.shields.io/badge/MongoDB-007ACC?style=flat-square&logo=mongodb&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication-6c757d?style=flat-square&logo=shield&logoColor=white)
 
-## Work
+
 
 ### [OneRoomConnect](https://github.com/I-am-Rishabh/oneRoomConnect)
 Real-time video chat web application built with React.js and Node.js. Features peer-to-peer WebRTC communication for direct browser-to-browser streaming, Socket.IO for signaling, and responsive Bootstrap UI. Supports Gmail-based room access with unique room codes for secure video calls.
