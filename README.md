@@ -4,18 +4,18 @@
 
 I'm passionate about writing clean code, building microservices, and learning new technologies as a backend developer. I enjoy creating scalable applications with modern tech stacks and have hands-on experience in full-stack development. Currently focused on mastering Spring Boot ecosystem, real-time applications with WebRTC and Socket.IO, and designing efficient database schemas.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007ACC?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6c757d?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-007ACC?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6c757d?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-007ACC?style=flat-square&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6c757d?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-007ACC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6c757d?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-007ACC?style=flat-square&logo=mongodb&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication-6c757d?style=flat-square&logo=shield&logoColor=white)
 
-## Work
+## 🚀 Featured Projects
 
 ### [OneRoomConnect](https://github.com/I-am-Rishabh/oneRoomConnect)
 Real-time video chat web application built with React.js and Node.js. Features peer-to-peer WebRTC communication for direct browser-to-browser streaming, Socket.IO for signaling, and responsive Bootstrap UI. Supports Gmail-based room access with unique room codes for secure video calls.  
@@ -25,7 +25,7 @@ Real-time video chat web application built with React.js and Node.js. Features p
 Multi-user location tracking system with interactive Leaflet.js maps and real-time Socket.IO communication. Features smart zoom control, mobile optimization, and visual distinction between users with different marker colors. Perfect for delivery apps, fleet management, and event coordination with cross-platform compatibility.  
 🔗 [Live Demo](https://multiusertracker.onrender.com/) | [GitHub Repo](https://github.com/I-am-Rishabh/MultiUserTracker)
 
-### [BusPort](https://github.com/I-am-Rishabh/BusPort)
+### [Bus Reservation System](https://github.com/I-am-Rishabh/BusPort)
 Enterprise-grade microservices architecture built with Spring Boot 3.x, featuring three independent services: User Service (JWT authentication), Bus Service (route management), and Booking Service (reservation handling). Implements MySQL databases, RESTful APIs, and comprehensive booking workflow with passenger management and schedule optimization.  
 🔗 [GitHub Repo](https://github.com/I-am-Rishabh/BusPort) | [Documentation](https://github.com/I-am-Rishabh/BusPort#readme)
 
