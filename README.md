@@ -15,7 +15,7 @@ I'm passionate about writing clean code, building microservices, and learning ne
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication-6c757d?style=flat-square&logo=shield&logoColor=white)
 
-## 🚀 Featured Projects
+## Work
 
 ### [OneRoomConnect](https://github.com/I-am-Rishabh/oneRoomConnect)
 Real-time video chat web application built with React.js and Node.js. Features peer-to-peer WebRTC communication for direct browser-to-browser streaming, Socket.IO for signaling, and responsive Bootstrap UI. Supports Gmail-based room access with unique room codes for secure video calls.  
