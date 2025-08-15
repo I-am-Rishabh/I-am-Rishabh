@@ -2,31 +2,32 @@
 
 **Software Development Engineer Intern**
 
-I'm passionate about writing clean code, building microservices, and learning new technologies as a backend developer.
+I'm passionate about writing clean code, building microservices, and learning new technologies as a backend developer. I enjoy creating scalable applications with modern tech stacks and have hands-on experience in full-stack development. Currently focused on mastering Spring Boot ecosystem, real-time applications with WebRTC and Socket.IO, and designing efficient database schemas.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Authentication](https://img.shields.io/badge/Authentication-FF6B6B?style=for-the-badge&logo=shield&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-6c757d?style=for-the-badge&logo=shield&logoColor=white)
 
 ## 🚀 Featured Projects
 
 ### [OneRoomConnect](https://github.com/I-am-Rishabh/oneRoomConnect)
-Real-time video chat web application with WebRTC and Socket.IO for peer-to-peer communication.  
+Real-time video chat web application built with React.js and Node.js. Features peer-to-peer WebRTC communication for direct browser-to-browser streaming, Socket.IO for signaling, and responsive Bootstrap UI. Supports Gmail-based room access with unique room codes for secure video calls.  
 🔗 [Live Demo](https://oneroomconnect.onrender.com/) | [GitHub Repo](https://github.com/I-am-Rishabh/oneRoomConnect)
 
 ### [MultiUserTracker](https://github.com/I-am-Rishabh/MultiUserTracker)
-Real-time multi-user location tracking system with interactive maps using Socket.IO and Leaflet.js.  
+Multi-user location tracking system with interactive Leaflet.js maps and real-time Socket.IO communication. Features smart zoom control, mobile optimization, and visual distinction between users with different marker colors. Perfect for delivery apps, fleet management, and event coordination with cross-platform compatibility.  
 🔗 [Live Demo](https://multiusertracker.onrender.com/) | [GitHub Repo](https://github.com/I-am-Rishabh/MultiUserTracker)
 
-### [Project Name 3](link-to-repo)
-Brief description of your third project and technologies used.
+### [Bus Reservation System](https://github.com/I-am-Rishabh/BusPort)
+Enterprise-grade microservices architecture built with Spring Boot 3.x, featuring three independent services: User Service (JWT authentication), Bus Service (route management), and Booking Service (reservation handling). Implements MySQL databases, RESTful APIs, and comprehensive booking workflow with passenger management and schedule optimization.  
+🔗 [GitHub Repo](https://github.com/I-am-Rishabh/BusPort) | [Documentation](https://github.com/I-am-Rishabh/BusPort#readme)
 
 ---
 
