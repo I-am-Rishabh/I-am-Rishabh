@@ -21,8 +21,9 @@ I'm passionate about writing clean code, building microservices, and learning ne
 Real-time video chat web application with WebRTC and Socket.IO for peer-to-peer communication.  
 🔗 [Live Demo](https://oneroomconnect.onrender.com/) | [GitHub Repo](https://github.com/I-am-Rishabh/oneRoomConnect)
 
-### [Project Name 2](link-to-repo)
-Brief description of your second project and technologies used.
+### [MultiUserTracker](https://github.com/I-am-Rishabh/MultiUserTracker)
+Real-time multi-user location tracking system with interactive maps using Socket.IO and Leaflet.js.  
+🔗 [Live Demo](https://multiusertracker.onrender.com/) | [GitHub Repo](https://github.com/I-am-Rishabh/MultiUserTracker)
 
 ### [Project Name 3](link-to-repo)
 Brief description of your third project and technologies used.
