@@ -26,7 +26,7 @@ I'm passionate about writing clean code, building microservices, and learning ne
 
 ## 📊 GitHub Stats
 
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-am-Rishabh&show_icons=true&theme=default&hide_border=true)
 
 ---
 
