@@ -4,6 +4,7 @@
 I'm passionate about writing clean code, building microservices, and learning new technologies as a backend developer. I enjoy creating scalable applications with modern tech stacks and have hands-on experience in full-stack development. Currently focused on mastering Spring Boot ecosystem, real-time applications with WebRTC and Socket.IO, and designing efficient database schemas.
 
 <br/>
+
 ![Java](https://img.shields.io/badge/Java-007ACC?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6c757d?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-007ACC?style=flat-square&logo=node.js&logoColor=white)
