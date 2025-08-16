@@ -29,7 +29,7 @@ Multi-user location tracking system with interactive Leaflet.js maps and real-ti
 🔗 [Live Demo](https://multiusertracker.onrender.com/) | [GitHub Repo](https://github.com/I-am-Rishabh/MultiUserTracker)
 
 ### [BusPort](https://github.com/I-am-Rishabh/BusPort)
-Enterprise-grade microservices architecture built with Spring Boot 3.x, featuring three independent services: User Service (JWT authentication), Bus Service (route management), and Booking Service (reservation handling). Implements MySQL databases, RESTful APIs, and comprehensive booking workflow with passenger management and schedule optimization.
+Enterprise-grade microservices architecture built with Spring Boot 3.x, featuring three independent services: User Service (JWT authentication), Bus Service (route management), and Booking Service (reservation handling). Implements MySQL databases, and comprehensive booking workflow with passenger management and schedule optimization.
 
 🔗 [GitHub Repo](https://github.com/I-am-Rishabh/BusPort) | [Documentation](https://github.com/I-am-Rishabh/BusPort#readme)
 
