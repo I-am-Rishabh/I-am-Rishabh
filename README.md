@@ -40,5 +40,8 @@ Enterprise-grade microservices architecture built with Spring Boot 3.x, featurin
 
 </div>
 <div align="center">
-  <h3>💼 Open to opportunities and collaborations!</h3>
+  <h3>💼 Email :  rishabhprasad679367@gmail.com</h3>
 </div>
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=I-am-Rishabh&label=Profile%20views&color=0e75b6&style=flat" alt="I-am-Rishabh" /> 
+</p>
