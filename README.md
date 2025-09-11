@@ -36,6 +36,9 @@ A secure web application for uploading, storing, and sharing documents built wit
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/rishabh-prasad-76b164237/)
 
 </div>
+
+---
+
 **📧 Email:** rishabhprasad679367@gmail.com
 
 <p align="right"> 
