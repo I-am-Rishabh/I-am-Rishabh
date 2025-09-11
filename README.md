@@ -16,13 +16,13 @@ A real-time video chat web application built with **React.js** and **Node.js**. 
 Multi-user location tracking system with interactive **Leaflet.js maps** and real-time **Socket.IO communication**. Features smart zoom control, **mobile optimization**, and visual distinction between users with different marker colors. Perfect for delivery apps, fleet management, and event coordination with **cross-platform compatibility**.  
 🔗 [Live Demo](https://multiusertracker.onrender.com/) | [GitHub Repo](https://github.com/I-am-Rishabh/MultiUserTracker)
 
-### 2. Enterprise Microservices & Backend Architecture
+### 2.Microservices & Backend Architecture
 
 **BusPort**  
 Enterprise-grade **microservices architecture** built with **Spring Boot 3.x**, featuring three independent services: User Service (**JWT authentication**), Bus Service (route management), and Booking Service (reservation handling). Implements **MySQL databases**, and comprehensive booking workflow with passenger management and **schedule optimization**.  
 🔗 [GitHub Repo](https://github.com/I-am-Rishabh/BusPort) | [Documentation](https://github.com/I-am-Rishabh/BusPort#readme)
 
-### 3. Cloud Storage & Document Management
+### 3.Storage & Document Management
 
 **CloudShare (In Progress)**  
 A secure web application for uploading, storing, and sharing documents built with **React.js**, **Node.js**, and **cloud storage services**. The platform allows users to organize files, generate shareable links, and control access by assigning specific permissions (**view/edit/download**) to selected users or email addresses. Features **encryption for safe storage**, **real-time access management**, and an intuitive interface for seamless document collaboration with **Clerk Auth** and **MongoDB**.  
