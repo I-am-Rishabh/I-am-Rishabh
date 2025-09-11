@@ -37,8 +37,6 @@ A secure web application for uploading, storing, and sharing documents built wit
 
 </div>
 
----
-
 **📧 Email:** rishabhprasad679367@gmail.com
 
 <p align="right"> 
