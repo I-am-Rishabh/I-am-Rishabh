@@ -1,4 +1,4 @@
-# **Rishabh (@I-am-Rishabh)**
+# **Rishabh Prasad(@I-am-Rishabh)**
 
 **Software Development Engineer Intern** passionate about writing clean code, building microservices, and learning new technologies as a backend developer. This profile showcases selected projects at the intersection of **full-stack development**, **real-time applications**, **microservices architecture**, and **modern web technologies**.
 
