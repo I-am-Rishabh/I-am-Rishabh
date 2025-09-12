@@ -32,7 +32,7 @@ A secure web application for uploading, storing, and sharing documents built wit
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=FF5722)](https://portfolio-bop9.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=4CAF50)](https://portfolio-bop9.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/rishabh-prasad-76b164237/)
 
 </div>
