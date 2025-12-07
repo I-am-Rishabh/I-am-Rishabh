@@ -25,7 +25,7 @@ Enterprise-grade **microservices architecture** built with **Spring Boot 3.x**, 
 ### 3.Storage & Document Management
 
 **CloudShare (In Progress)**  
-A secure web application for uploading, storing, and sharing documents built with **React.js**, **Node.js**, and **cloud storage services**. The platform allows users to organize files, generate shareable links, and control access by assigning specific permissions (**view/edit/download**) to selected users or email addresses. Features **encryption for safe storage**, **real-time access management**, and an intuitive interface for seamless document collaboration with **Clerk Auth** and **MongoDB** .  
+A secure web application for uploading, storing, and sharing documents built with **React.js**, **Node.js**, and **cloud storage services**. The platform allows users to organize files, generate shareable links, and control access by assigning specific permissions (**view/edit/download**) to selected users or email addresses. Features **encryption for safe storage**, **real-time access management**, and an intuitive interface for seamless document collaboration with **Clerk Auth** and **MongoDB**.  
 🔗 [GitHub Repo](https://github.com/I-am-Rishabh/Doc-StoringNSharing-website)
 
 ## **Connect With Me** 
